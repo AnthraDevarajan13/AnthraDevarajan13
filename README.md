@@ -4,7 +4,7 @@
 <!--
 **AnthraDevarajan13/AnthraDevarajan13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align="right" width="350" height="200" src="https://cdn.dribbble.com/users/1951182/screenshots/4560823/800x600.gif">
+<img align="right" width="250" height="200" src="https://cdn.dribbble.com/users/1951182/screenshots/4560823/800x600.gif">
 
 ### ⚡ Here are some ideas to get you started:
 
