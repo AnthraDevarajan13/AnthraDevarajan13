@@ -1,4 +1,4 @@
-### Hi there 👋. This is Anthra Devarajan. Student at Vellore Institute of Technology, Chennai
+### Hi there 👋. This is Anthra Devarajan. Pre-final year student at Vellore Institute of Technology, Chennai
 
 <hr>
 <!--
